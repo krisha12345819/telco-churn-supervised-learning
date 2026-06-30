@@ -32,6 +32,17 @@
 
 </div>
 
+### 📥 Dataset
+
+- **Dataset Name:** Telco Customer Churn
+- **Source:** Kaggle
+- **Link:** https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+- **Records:** 7,043 Customers
+- **Features:** 21 Columns
+- **Target Variable:** `Churn`
+
+---
+
 <div align="center">
 
 | 📊 **7,043 Customers** | 🧠 **4 ML Models** | 🎯 **Binary Classification** | ⚡ **Recall-Optimized** |
@@ -90,7 +101,7 @@ Acquiring a new customer costs **5–7x more** than retaining an existing one. T
 | 💰 **Charges** | `MonthlyCharges`, `TotalCharges` | Billing amounts |
 | 🎯 **Target** | `Churn` | Whether the customer left (Yes/No) |
 
-> 📥 **Download Dataset:** [`WA_Fn-UseC_-Telco-Customer-Churn.csv`](./WA_Fn-UseC_-Telco-Customer-Churn.csv)
+
 
 ---
 
